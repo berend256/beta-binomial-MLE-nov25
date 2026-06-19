@@ -5,8 +5,7 @@
 This repository contains Python code used to compute **resultants** for the Beta-Binomial Maximum Likelihood Estimation (MLE) problem in the special case where each item receives exactly two ratings (n = 2). The code supports the derivation of the closed-form solution presented in **Theorem 2** of our paper:
 
 > *On the MLE for the Beta-Binomial Distribution*  
-> Daniel Berend, Yuri Chernyavsky, Luba Sapir  
-> [Add DOI or arXiv link here]
+> Daniel Berend, Yuri Chernyavsky, Luba Sapir
 
 ---
 
